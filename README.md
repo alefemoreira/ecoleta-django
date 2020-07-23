@@ -46,7 +46,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 O Ecoleta ajuda pessoas a encontrarem pontos de coleta de forma eficiente.
+
 Este repositório contempla apenas o Backend do projeto ecoleta.
+
 Este repositório foi criado para fins de aprendizado das tecnologias listas em [Tecnologias](#tecnologias)
 
 ## Layout
