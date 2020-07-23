@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./.github/logo.svg" alt="Ecoleta" title="#ecoleta" width="250px"/>
+    <img src="https://raw.githubusercontent.com/alefemoreira/ecoleta/master/.github/logo.svg" alt="Ecoleta" title="#ecoleta" width="250px"/>
 </h1>
 
 <h4 align="center">
@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Cover" src=".github/cover.png" width="100%">
+  <img alt="Cover" src="https://github.com/alefemoreira/ecoleta/blob/master/.github/cover.png" width="100%">
 </p>
 
 ## Tecnologias
